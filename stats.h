@@ -9,14 +9,9 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
- *
- * <Add Extended Description Here>
- *
- * @author <Add FirsName LastName>
- * @date <Add date >
- *
+ * @file stats.h 
+ * @author Hai Nguyen
+ * @date April 19, 2020
  */
 #ifndef __STATS_H__
 #define __STATS_H__
