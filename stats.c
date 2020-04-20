@@ -68,8 +68,8 @@ void print_statistics(unsigned char * ptr)
   printf("********Array Statistics***********\n");
   printf("Minimum value of array: %u\n", find_minimum(ptr));
   printf("Maximum value of array: %u\n", find_maximum(ptr));
-  printf("Mean value of array: %0.2f\n", find_mean(ptr));
-  printf("Median value of array: %0.2f\n", find_median(ptr));
+  printf("Mean value of array(must be in float): %f\n", find_mean(ptr));
+  printf("Median value of array(must be in float): %f\n", find_median(ptr));
 }
 
 float find_mean(unsigned char * ptr)
